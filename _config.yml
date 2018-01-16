@@ -21,8 +21,8 @@ github_username: biaojiang# put your github username
 twitter_username: biajia# put your twitter username
 linkedin_username: biao-jiang# put your linkedin username
 scholar_authorid: # put your google scholar author id
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+#contact_note: >
+#  You can even add a little note about which of these is the best way to reach you.
 
 google_analytics: UA-112423768-1 # out your google-analytics code
 
