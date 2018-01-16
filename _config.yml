@@ -31,8 +31,8 @@ jekyll-mentions:
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: Biao Jiang
-blog_description: Technical blogs
+blog_name: Blogs
+blog_description: Signal processing, data science, etc.
 
 # Pagination
 paginate: 4
