@@ -51,7 +51,6 @@ disqus:
 # Optional features
 show_social_icons:  false
 enable_anchorjs:    false
-enable_katex:       true
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -84,6 +83,7 @@ plugins:
     - jekyll-paginate
     - jekyll/scholar
     - jemoji
+    - jekyll-seo-tag
 
 # Jekyll-Scholar
 scholar:
@@ -112,6 +112,5 @@ scholar:
 # -----------------------------------------------------------------------------
 # Other settings
 # -----------------------------------------------------------------------------
-#jquery_version: "1.12.4"
-#katex_version: "0.7.1"
-#anchorjs_version: "3.2.2"
+jquery_version: "3.2.1"
+#anchorjs_version: "4.1.0"
