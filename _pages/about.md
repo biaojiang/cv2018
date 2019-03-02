@@ -17,7 +17,9 @@ news: true
 social: true
 ---
 
-I’m now a PostDoc researcher in medical ultrasound, with research dedicated to provide new risk-markers for arterial plaque vulnerability. 
+I’m now a Data Scientist & researcher in [Sandvik Coromant](https://www.sandvik.coromant.com/en-gb/pages/default.aspx), Sweden. The main work was envisaged to promote the implementations of IoT and Industry 4.0 in digital machining.
+
+From Dec 2016 to Dec 2018, I was a Postdoc and principal research engineer in Umeå University for medical ultrasound research, of which the objective was to provide new risk-markers for arterial plaque vulnerability. 
 
 From Aug 2014, I was a researcher in [Luleå University of Technology](https://ltu.se) (LTU) for an EU project - BondTest, for which several advanced ultrasonic non-destructive testing (NDT) methods and software were developed and evaluated by different diffusion-bonded metallic materials. 
 

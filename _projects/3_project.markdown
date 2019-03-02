@@ -1,11 +1,26 @@
 ---
 layout: page
 title: Project 3
-description: a project that redirects to another website
+description: medical ultrasound image processing
 img:
-redirect: https://unsplash.com
 ---
 
+Medical ultrasound image processing include:
+
+* Ultrasound array signal processing
+
+* Ultrasound simulations
+
+* Segmentation, de-noising, texture feature analysis
+
+* Tissue motion estimation, etc.
+
+One method in arterial ultrasound processing is to use and modify [Eulerian Video Magnification](http://people.csail.mit.edu/mrub/vidmag/), as presented in [EVM in medical applications](../../assets/pdf/EVM_0329.pdf).
+
+
+
+{::comment}
+redirect: https://unsplash.com
 Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
@@ -54,3 +69,4 @@ The code is simple. Just add a col class to your image, and another class specif
       <img class="col two" src="/img/6.jpg"/>
       <img class="col one" src="/img/11.jpg"/>
     </div>
+{:/comment}

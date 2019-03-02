@@ -1,21 +1,32 @@
 ---
 layout: page
 title: Project 1
-description: a project with a background image
-img: /assets/img/12.jpg
+description: underwater acoustics
+img: /assets/img/Buried_tgt_sas.png
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+Underwater acoustics research include:
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+* Array signal processing
 
-    ---
-    layout: page
-    title: Project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+* Sound propagation models
 
+* Synthetic aperture imaging
+
+* Geoacoustic inversion
+
+Here is an example of *synthetic aperture imaging*:
+![](../../assets/img/resolution_comp_and_images_1.png){:height="468px" width="628px"}
+*Conventional beamforming vs. proposed SRMV method*
+
+{::comment}
+
+<div class="img_row">
+    <img class="col three" src="{{ site.baseurl }}assets/img/resolution_comp_and_images_1.png" alt="" title="example image" style="width: 50%; height: 50%"/>
+</div>
+<div class="col three caption">
+    Conventional beamforming vs. proposed SRMV method.
+</div>
 
 <div class="img_row">
     <img class="col one" src="{{ site.baseurl }}/assets/img/1.jpg" alt="" title="example image"/>
@@ -53,3 +64,4 @@ The code is simple. Just add a col class to your image, and another class specif
       <img class="col two" src="/img/6.jpg"/>
       <img class="col one" src="/img/11.jpg"/>
     </div>
+{:/comment}
