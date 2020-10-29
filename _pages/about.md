@@ -3,7 +3,8 @@ layout: about
 permalink: /
 title: <strong>Biao</strong> Jiang
 #description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
-description: <a href="https://www.umu.se">Umeå University</a>. Sweden
+#description: <a href="https://www.umu.se">Umeå University</a>. Sweden
+description: Data Scientist, researcher. Sweden
 
 profile:
   align: right

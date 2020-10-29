@@ -18,3 +18,7 @@ group :jekyll_plugins do
     gem "jekyll-sitemap"
     gem "jekyll-mentions"
 end
+
+group :development, :test do
+  gem 'unicode_utils', require: false unless RUBY_VERSION >= '2.4'
+end
